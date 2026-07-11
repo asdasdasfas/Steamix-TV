@@ -3,6 +3,6 @@
   "versionCode": 17,
   "downloadUrl": "https://github.com/asdasdasfas/Steamix-TV/releases/download/v1.0.15/app-debug.apk",
   "releaseUrl": "https://github.com/asdasdasfas/Steamix-TV/releases/tag/v1.0.15",
-  "releaseNotes": "Uygulama içi güncelleme desteği eklendi\nPlayer alt çubuk aspect ratio butonu kaldırıldı\nDünya kanalları kaldırıldı\nAndroid TV kurulum hatası düzeltildi\nPC emülatör (x86/x86_64) desteği eklendi",
-  "publishedAt": "2026-07-11T12:00:00Z"
+  "releaseNotes": "Test sürümü - güncelleme bildirimi testi",
+  "publishedAt": "2026-07-11T13:00:00Z"
 }
